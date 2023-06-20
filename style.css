@@ -1,0 +1,27 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    max-width: 80vw;
+
+}
+.topright
+{
+    width: 50%;
+    height: 50vh
+}
+.topleft
+{
+    width: 50%;
+    height: 50vh
+}
+.section1
+{
+    padding: 50px;
+    height: 50vh;
+}

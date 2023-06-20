@@ -1,0 +1,166 @@
+
+.min-screnn{
+    min-height: 100vh;
+}
+.bg-color
+{
+    background-color: red;
+}
+.mx-auto
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex
+{
+    display: flex;
+}
+
+.justify-center
+{
+justify-content: space-between;
+}
+.justify
+{
+    justify-content: center;
+}
+.item-center
+{
+    align-items: center;
+}
+.navbar li
+{
+list-style: none;
+margin: 0 12px;
+}
+.navbar
+{
+    display: flex;
+    height: 67px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: large;
+}
+.bg-red
+{
+    background-color: red;
+}
+.font-weight
+{
+    font-weight: bold;
+    font-size: x-large;
+}
+.flex-col
+{
+    flex-direction: column;
+}
+.my-1
+{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.btn
+{
+    background-color:chocolate;
+    padding: 4px 12px;
+    border-radius: 7px;
+    border: 2px solid chocolate;
+    color: white;
+    cursor: pointer;
+}
+.gymimg
+{
+width: 300px;
+}
+.dumbel
+{
+    width: 200px;
+}
+.color
+{
+    color: rgb(255, 196, 0) ;
+}
+.text-center
+{
+    text-align: center;
+}
+.section2 h1
+{
+font-size: 2rem;
+}
+.section2
+{
+    padding: 50px;
+}
+.box
+{
+    padding: 8px 0px;
+    margin:12px 12px;
+    min-width: 25vw;
+    border: 2px solid;
+    border-color: chocolate;
+    text-align: center;
+    border-radius: 7px;
+}
+.box ul
+{
+    list-style: none;
+}
+.box ul li
+{
+    margin: 12px 2px;
+}
+.high
+{
+    font-weight: bolder;
+    font-size: 24px;
+}
+.plan ul li{
+list-style: none;
+margin: 1px 100px;
+}
+.feature ul li
+{
+    list-style: none;
+    margin: 12px 12px;
+    border-bottom: 2px solid chocolate;
+    max-width: 50vw;
+}
+.plan
+{
+    padding: 22px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.section3 table
+{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+.section3 table th{
+    width: 23vw;
+    border-bottom: 2px solid black;
+
+}
+.section3 table td
+{
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
+.section3
+{
+    padding: 50px;
+    padding-left: 63px;
+    padding-right: 63px;
+}
+ 
+.p
+{
+    padding: 22px;
+}
+.f
+{
+    padding: 22px;
+}
